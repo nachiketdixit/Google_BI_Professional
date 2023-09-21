@@ -45,4 +45,4 @@ Cyclistic has partnered with the city of New York to provide shared bikes.
 The main findings of the code can be found in the post available at [medium]
 
 ## Acknowledgement
-Must give credit to [Google Carrer Certificate](https://grow.google/intl/en_in/certificates/) and [Coursera](https://www.coursera.org/) for providing the data.
+Must give credit to [Google Carrier Certificate](https://grow.google/intl/en_in/certificates/) and [Coursera](https://www.coursera.org/) for providing the data.
