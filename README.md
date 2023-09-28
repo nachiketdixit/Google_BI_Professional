@@ -42,7 +42,7 @@ Cyclistic has partnered with the city of New York to provide shared bikes.
 2. Secondary Dataset - [Census Bureau US Boundaries](https://console.cloud.google.com/marketplace/product/united-states-census-bureau/us-geographic-boundaries)
 
 ## Results
-The main findings of the code can be found in the post available at [medium]
+The main findings of the code can be found in the post available at [tableau](https://public.tableau.com/app/profile/nachiketdixit/viz/CyclisticTrend/SummerTrips#1)
 
 ## Acknowledgement
 Must give credit to [Google Career Certificate](https://grow.google/intl/en_in/certificates/) and [Coursera](https://www.coursera.org/) for providing the data.
